@@ -10,8 +10,8 @@ permalink: /links/
 4. [Youtube_Fitz][youtube_fits]
 5. [Jewish_Weddings][jewish_weddings]
 
-[fortnite] https://www.epicgames.com/site/en-US/home
-[final_space] http://www.tbs.com/shows/final-space
-[twitch] https://www.twitch.tv/
-[youtube_fits] https://www.youtube.com/fitz
-[jewish_weddings] https://www.theknot.com/content/jewish-wedding-ceremony-rituals
+[fortnite]: https://www.epicgames.com/site/en-US/home
+[final_space]: http://www.tbs.com/shows/final-space
+[twitch]: https://www.twitch.tv/
+[youtube_fits]: https://www.youtube.com/fitz
+[jewish_weddings]: https://www.theknot.com/content/jewish-wedding-ceremony-rituals
