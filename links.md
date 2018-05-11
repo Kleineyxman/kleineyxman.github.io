@@ -2,7 +2,6 @@
 layout: page
 title: links
 permalink: /links/
-author: Wade Halvorson
 ---
 
 1. [Fortnite][fortnite]
