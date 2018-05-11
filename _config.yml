@@ -30,7 +30,7 @@ disqus:
 timezone: America/Los_Angeles
 # Build settings
 markdown: kramdown
-theme: games
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
