@@ -26,3 +26,12 @@ author: Wade Halvorson
 - Or minuses
 + Or pluses
 
+[bumhead](https://www.google.com)
+
+[bum](https://www.google.com "Google's Homepage")
+
+[gord][Arbitrary case-insensitive reference text]
+
+[nonomoma](../blob/master/LICENSE)
+
+
