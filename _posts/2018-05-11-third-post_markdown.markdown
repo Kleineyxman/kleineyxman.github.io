@@ -16,9 +16,9 @@ author: Wade Halvorson
 
 1. god
 2. jesus
-⋅⋅* nou. 
+
 1. kale
-⋅⋅1. bum
+
 4. no.
 
 
