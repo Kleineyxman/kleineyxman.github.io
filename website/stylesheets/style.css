@@ -1,0 +1,198 @@
+@charset "UTF-8";
+/* CSS Document */
+/*My color palate
+Color 1:#6B1C06
+ Color 2:#FFFDF6
+ Color 3:#8F0F1C
+*/
+body {
+		font-family:"bpdots", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+		color:white;
+		background-image: url("../images/wades clouds.gif");
+		
+	
+}
+#footer p {
+	text-align: right;
+}
+
+
+/* vc
+
+____  ____
+(__)    (__)
+-^----^-
+
+
+*/
+#wrapper {
+	width:960px;
+	padding: 5px;
+	margin: 20px auto;
+}
+#header {
+	height:100px;
+}
+
+#sidebar{
+	float: left;
+	width:300px;
+}
+#content{
+	float: right;
+	width:600px;
+}
+#footer{
+	clear: both;
+}
+
+/**********************
+
+O --- O
+
+*********************/
+#header,  #sidebar,  #content,  #footer {
+		background-color:rgba(121,  232,  183, 0.8);
+		margin-bottom: 4px;
+		border:double;
+		border-radius:8px;
+		border-color:white;
+		padding-left: 4px;
+		padding-right:4px;
+}
+
+@media screen and (max-width: 980px){
+	#wrapper{
+		width:94%;
+	}
+	#content {
+		width:65%;
+	}
+	#sidebar {
+		width:30%;
+	}
+}
+
+@media screen and (max-width: 700px){
+	#content, #sidebar{
+		Width:auto;
+		Float:none;
+	}
+	#header{
+		height:auto;
+	}
+}
+@media screen and (max-width: 480px){
+	#header{
+		height:auto;
+	}
+	H1{
+		font-size;24px;
+	}
+	#sidebar{
+		float:none;
+	}
+}
+@media screen and (max-width: 700px){
+}
+@media screen and (max-width: 700px){
+}
+@media screen and (max-width: 700px){
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
